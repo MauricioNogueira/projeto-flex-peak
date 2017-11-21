@@ -14,6 +14,8 @@ Para rodar este projeto em sua máquina é necessário ter instalado o laravel, 
 
 Abra o arquivo .env e faça as configurações com o seu banco de dados.
 
+Crie uma tabela chamado flex_peak.
+
 Primeiramente coloque o projeto na pasta em um servidor local, em seguida abra o terminal e vá para dentro do diretório do projeto;
 
 O projeto já possui dados pré configurado para serem adicionados no banco de dados: dentro do diretório do projeto execute o comando php artisan migrate, se caso você já fez este comando e quer reiniciar a tabela novamente use o comando php artisan migrate:fresh
