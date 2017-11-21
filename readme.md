@@ -12,6 +12,8 @@ Versão do PHP: 7.0.22
 
 Para rodar este projeto em sua máquina é necessário ter instalado o laravel, que na sua versão mais recente se encontra na versão 5.5;
 
+Abra o arquivo .env e faça as configurações com o seu banco de dados.
+
 Primeiramente coloque o projeto na pasta em um servidor local, em seguida abra o terminal e vá para dentro do diretório do projeto;
 
 O projeto já possui dados pré configurado para serem adicionados no banco de dados: dentro do diretório do projeto execute o comando php artisan migrate, se caso você já fez este comando e quer reiniciar a tabela novamente use o comando php artisan migrate:fresh
