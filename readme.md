@@ -11,10 +11,7 @@
 Versão do PHP: 7.0.22
 
 Para rodar este projeto em sua máquina é necessário ter instalado o laravel, que na sua versão mais recente se encontra na versão 5.5;
-
 Abra o arquivo .env e faça as configurações com o seu banco de dados.
-
-Crie uma tabela chamado flex_peak.
 
 Primeiramente coloque o projeto na pasta em um servidor local, em seguida abra o terminal e vá para dentro do diretório do projeto;
 
