@@ -10,6 +10,8 @@
 ## About Laravel
 Versão do PHP: 7.0.22
 
+Primeiramente você precisa instalar o composer, se caso não tenha <a href="https://getcomposer.org/download/">clique aqui</a> para baixar.
+
 Para rodar este projeto em sua máquina é necessário ter instalado o laravel, que na sua versão mais recente se encontra na versão 5.5;
 Abra o arquivo .env e faça as configurações com o seu banco de dados.
 
