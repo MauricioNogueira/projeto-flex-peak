@@ -11,11 +11,11 @@
 Versão do PHP: 7.0.22
 
 Primeiramente você precisa instalar o composer, se caso não tenha <a href="https://getcomposer.org/download/">clique aqui</a> para baixar.
+Vamos começar!
 
-Para rodar este projeto em sua máquina é necessário ter instalado o laravel, que na sua versão mais recente se encontra na versão 5.5;
-Abra o arquivo .env e faça as configurações com o seu banco de dados.
+Abra o arquivo .env e faça as configurações com o seu banco de dados, como username, password e nome do banco.
 
-Primeiramente coloque o projeto na pasta em um servidor local, em seguida abra o terminal e vá para dentro do diretório do projeto;
+Agora coloque o projeto na pasta do seu servidor local, em seguida abra o terminal e vá para dentro do diretório do projeto;
 
 O projeto já possui dados pré configurado para serem adicionados no banco de dados: dentro do diretório do projeto execute o comando php artisan migrate, se caso você já fez este comando e quer reiniciar a tabela novamente use o comando php artisan migrate:fresh
 Em seguida, use o comando para inserir os dados pré configurado: php artisan db:seed
